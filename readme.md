@@ -6,7 +6,7 @@
 
 1. Install Python 3
 2. Install Pycharm editor if not already installed
-3. Go to filea and click on create new project> Import downloaded project from GIT
+3. Go to File and click Open> Import downloaded project from GIT
 
 #  Packages Required
 - requests
