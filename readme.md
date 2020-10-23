@@ -29,7 +29,8 @@ __Project Name: Par2CloudCover__
 - *Test Data*: Here I have kept the expected badgeid csv file which I am using under Get_Badges request.
 
 
-# Test Cases Covered [Most of test cases I have covered in Get_Badges request,we can replicate the same in others]
+# Test Cases Covered 
+__Most of test cases I have covered in *Get_Badges* request,we can replicate the same in others__
 1. Status code check
 2. Schema/DataType check using Draft6Validator
 3. Empty response check
